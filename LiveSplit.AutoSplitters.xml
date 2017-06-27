@@ -2812,4 +2812,14 @@
     <Type>Script</Type>
     <Description>In-game time, auto-split, auto-start and load-removal. (by Lordmau5)</Description>
   </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+	<Game>Trackmania² Lagoon</Game>
+    </Games>
+        <URLs>
+	    <URL>https://github.com/RastaBobby/Trackmania-Lagoon.asl/blob/master/TMLagoon.asl</URL>
+	</URLs>
+	  <Type>Script</Type>
+	  <Description>Load remover and autosplitting options are available. (by Nekz and RastaBobby)
+  </Autosplitter>
 </AutoSplitters>
